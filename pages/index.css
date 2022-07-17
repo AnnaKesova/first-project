@@ -1,0 +1,41 @@
+@import url(../vendor/normalize.css);
+@import url(../blocks/page/page.css);
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__body/header__body.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__menu/header__menu.css);
+@import url(../blocks/header/__ul/header__ul.css);
+@import url(../blocks/header/__list/header__list.css);
+@import url(../blocks/header/__ref/header__ref.css);
+@import url(../blocks/title/title.css);
+@import url(../blocks/title/__name/title__name.css);
+@import url(../blocks/problem/problem.css);
+@import url(../blocks/problem/__container/problem__container.css);
+@import url(../blocks/problem/__title/problem__title.css);
+@import url(../blocks/problem/__description/problem__description.css);
+@import url(../blocks/problem/__span/problem__span.css);
+@import url(../blocks/text/text.css);
+@import url(../blocks/text/__name/text__name.css);
+@import url(../blocks/intro/__text/intro__text.css);
+@import url(../blocks/intro/__container/intro__container.css);
+@import url(../blocks/columns/columns.css);
+@import url(../blocks/columns/__logo/columns__logo.css);
+@import url(../blocks/columns/__text/columns__text.css);
+@import url(../blocks/team/__cards/team__cards.css);
+@import url(../blocks/team/__title/team__title.css);
+@import url(../blocks/team/__human/team__human.css);
+@import url(../blocks/team/__name/team__name.css);
+@import url(../blocks/team/__job/team__job.css);
+@import url(../blocks/team/team.css);
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__text/footer__text.css);
+
+
+
+
+
+
+
+
+
+

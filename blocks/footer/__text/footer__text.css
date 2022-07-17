@@ -1,0 +1,11 @@
+.footer__text {
+  font-family: "Roboto", "Helvetica Neue", Arial, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  text-align: center;
+  width: 540px;
+  color: #ffffff;
+  margin: 0 auto;
+}

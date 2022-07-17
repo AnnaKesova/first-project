@@ -1,0 +1,13 @@
+.problem__description {
+  font-family: "Roboto", "Helvetica Neue", Arial, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 38px;
+  margin: 0 auto 30px;
+  color: #000000;
+}
+
+.problem__description:last-child {
+  margin-bottom: 0;
+}

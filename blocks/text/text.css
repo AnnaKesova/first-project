@@ -1,0 +1,9 @@
+.text {
+  background-image: url(../../images/imagenext.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 483px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

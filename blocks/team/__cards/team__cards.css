@@ -1,0 +1,10 @@
+.team__cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-row-gap: 82px;
+  grid-column-gap: 112px;
+  list-style: none;
+  padding: 0;
+  margin: auto;
+  justify-items: center;
+}
